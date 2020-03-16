@@ -29,7 +29,7 @@
 #include "Adafruit_GFX.h"
 #include "ArduiPi_OLED.h"
 #include "display_info.h"
-
+#include "FreeSansBold18pt7b.h"
 #include <string>
 #include <vector>
 
